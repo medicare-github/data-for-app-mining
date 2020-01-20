@@ -46,13 +46,13 @@
 											<p> merupakan Tool pengumpulan data <span style="color: blueviolet">Nilai Ujian Nasional</span> Mahasiswa Bumigora yang berguna untuk <span class="text-warning">data set Aplikasi Sistem Rekomendasi Pemilihan Jurusan Program Study dengan metode KNN </span>  di <span style="color: blue">universitas Bumigora</span>  </p>
 											<div class="row">
 												<div class="col-md-6 col-sm-6">
-													<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScUlqyGXu3yOFVhGYvTNOPALmUQjr2D1PVZyU_wWqyGmXG1zQ/viewform?usp=sf_link" class="site-btn" style="font-weight: bold"> SMA MIPA</a>
+													<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScUlqyGXu3yOFVhGYvTNOPALmUQjr2D1PVZyU_wWqyGmXG1zQ/viewform" class="site-btn" style="font-weight: bold"> SMA MIPA</a>
 												</div>
 												<div class="col-md-6 col-sm-6" >
-													<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfDg2Yqb1sW8LOHvdplFOVHXKFF-SbjyzvN0j9Bda1a1cinJA/viewform?usp=sf_link" class="site-btn" style="font-weight: bold">SMA SOS</a>
+													<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfDg2Yqb1sW8LOHvdplFOVHXKFF-SbjyzvN0j9Bda1a1cinJA/viewform" class="site-btn" style="font-weight: bold">SMA SOS</a>
 												</div>
 												<div class="col-md-11 col-sm-11">
-													<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeCT3uMStsMl4OunO0sy4MElasuNOpkFvT8UciiM1UmNgvtfw/viewform?usp=sf_link" class="site-btn sb-c2 btn-block"  style="font-weight: bold">SMK Semua Jurusan</a>
+													<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeCT3uMStsMl4OunO0sy4MElasuNOpkFvT8UciiM1UmNgvtfw/viewform" class="site-btn sb-c2 btn-block"  style="font-weight: bold">SMK Semua Jurusan</a>
 												</div>
 											</div>
 											<!-- <a href="#" class="site-btn sb-c2">Start free trial</a> -->
