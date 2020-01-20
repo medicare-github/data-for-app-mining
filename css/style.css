@@ -329,8 +329,8 @@ Hero section
 }
 
 .hs-item {
-	height: 724px;
-	padding-bottom: 90px;
+	height: 100%;
+	padding-bottom: 100px;
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;

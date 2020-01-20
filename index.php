@@ -29,33 +29,41 @@
 	</div>
 	<!-- Header section -->
 	<?php
-		include 'includes/header.php'
+	include 'includes/header.php'
 	?>
 	<!-- Header section end -->
 	<section class="hero-section">
-		<div class="hero-slider owl-carousel">
-			<div class="hs-item">
-				<div class="container">
-					<div class="row">
-						<div class="col-lg-6">
-							<div class="hs-text">
-								<h2><span>Pengumpulan</span> Data </h2>
-								<p> Merupakan Proses Pengumpulan data Ujian Nasional Mahasiswa <a href="#" class="text-primary">Univerisitas Bumigora </a> untuk perancangan aplikasi sistem rekomendasi pemilihan program study di <a href="#" class="text-primary">Univerisitas Bumigora </a> </p>
-								<p>PILIH SALAH SATU LINK DI BAWAH SESUAI JURUSAN DI SMA (IPA/IPS) atau SMK</p>
-								<a href="https://docs.google.com/forms/d/e/1FAIpQLScUlqyGXu3yOFVhGYvTNOPALmUQjr2D1PVZyU_wWqyGmXG1zQ/viewform?usp=sf_link" class="site-btn" target="_blank">choose for SMA <span class="text-warning">
-										<h3>IPA</h3>
-									</span></a>
-								<a href="https://docs.google.com/forms/d/e/1FAIpQLSfDg2Yqb1sW8LOHvdplFOVHXKFF-SbjyzvN0j9Bda1a1cinJA/viewform?usp=sf_link" class="site-btn" target="_blank">choose for SMA <span class="text-warning">
-										<h3>IPS</h3>
-									</span></a>
-								<a href="https://docs.google.com/forms/d/e/1FAIpQLSeCT3uMStsMl4OunO0sy4MElasuNOpkFvT8UciiM1UmNgvtfw/viewform?usp=sf_link" class="site-btn" target="_blank">choose for SMK <span class="text-warning">
-										<h3>TKJ</h3>
-									</span></a>
-							</div>
-						</div>
-						<div class="col-lg-6">
-							<div class="hr-img">
-								<img src="images/result1.png" alt="">
+		<div class="hero-slider owl-carousel owl-loaded">
+			<div class="owl-stage-outer">
+				<div class="owl-stage" style="transform: translate3d(-1986px, 0px, 0px); transition: all 0s ease 0s; width: 5958px;">
+					<div class="owl-item animated owl-animated-in fadeIn cloned" style="width: 993px;">
+						<div class="hs-item">
+							<div class="container">
+								<div class="row">
+									<div class="col-lg-6">
+										<div class="hs-text">
+											<h2><span>Data</span> Mining.</h2>
+											<p> merupakan Tool pengumpulan data <span style="color: blueviolet">Nilai Ujian Nasional</span> Mahasiswa Bumigora yang berguna untuk <span class="text-warning">data set Aplikasi Sistem Rekomendasi Pemilihan Jurusan Program Study dengan metode KNN </span>  di <span style="color: blue">universitas Bumigora</span>  </p>
+											<div class="row">
+												<div class="col-md-6 col-sm-6">
+													<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScUlqyGXu3yOFVhGYvTNOPALmUQjr2D1PVZyU_wWqyGmXG1zQ/viewform?usp=sf_link" class="site-btn" style="font-weight: bold"> SMA MIPA</a>
+												</div>
+												<div class="col-md-6 col-sm-6" >
+													<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfDg2Yqb1sW8LOHvdplFOVHXKFF-SbjyzvN0j9Bda1a1cinJA/viewform?usp=sf_link" class="site-btn" style="font-weight: bold">SMA SOS</a>
+												</div>
+												<div class="col-md-11 col-sm-11">
+													<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeCT3uMStsMl4OunO0sy4MElasuNOpkFvT8UciiM1UmNgvtfw/viewform?usp=sf_link" class="site-btn sb-c2 btn-block"  style="font-weight: bold">SMK Semua Jurusan</a>
+												</div>
+											</div>
+											<!-- <a href="#" class="site-btn sb-c2">Start free trial</a> -->
+										</div>
+									</div>
+									<div class="col-lg-6 mt-5">
+										<div class="hr-img">
+											<img src="images/university.png" height="500px" alt="">
+										</div>
+									</div>
+								</div>
 							</div>
 						</div>
 					</div>
@@ -64,11 +72,10 @@
 		</div>
 	</section>
 
-
 	<?php
-		include 'includes/footer.php'
+	include 'includes/footer.php'
 	?>
-	 <!-- Footer section end -->
+	<!-- Footer section end -->
 
 	<!--====== Javascripts & Jquery ======-->
 	<script src="js/jquery-3.2.1.min.js"></script>
