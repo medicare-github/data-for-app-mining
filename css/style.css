@@ -120,12 +120,27 @@ Commom elements
 	border: none;
 	font-size: 14px;
 	font-weight: 500;
-	min-width: 195px;
+	min-width: 350px;
 	padding: 23px 20px;
 	border-radius: 50px;
 	text-transform: uppercase;
 	background: #fc0254;
 	color: #fff;
+	line-height: normal;
+	cursor: pointer;
+	text-align: center;
+}
+.site-btn2 {
+	display: inline-block;
+	border: none;
+	font-size: 14px;
+	font-weight: 500;
+	min-width: 350px;
+	padding: 23px 20px;
+	border-radius: 50px;
+	text-transform: uppercase;
+	background: #1b26ff;
+	color: rgb(255, 255, 255);
 	line-height: normal;
 	cursor: pointer;
 	text-align: center;
