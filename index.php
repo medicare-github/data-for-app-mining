@@ -51,25 +51,25 @@
 					<div class="row text-center">
 						<!-- isi link di href="link" -->
 						<div class="col-md-4 col-sm-12 mb-2">
-							<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSda45T-QyB1l7O2NlkJ_0lnS8e25KwXavvic6TvH3jXnc2URA/viewform?usp=sf_link" class="site-btn" style="font-weight: bold"> SMA Biologi</a>
+							<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeNe_8FnonhKYGIXwvg3kiSwOWp61snUX5Kzs8BwL84yXgXHQ/viewform?usp=sf_link" class="site-btn" style="font-weight: bold"> SMA Biologi</a>
 						</div>
 						<div class="col-md-4 col-sm-12 mb-2">
-							<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeYM17CV58SiaTNUgDsjyQWZ3jc0BqnZ00ugQlfNiYxGQl37Q/viewform?usp=sf_link" class="site-btn" style="font-weight: bold"> SMA Fisika</a>
+							<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfHT3ys2AHdwkfftjE9FPNSePyHocvBtdJktV_igHbVofKhtg/viewform?usp=sf_link" class="site-btn" style="font-weight: bold"> SMA Fisika</a>
 						</div>
 						<div class="col-md-4 col-sm-12 mb-2">
-							<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdyjKFc4hzirmLQM008vb6JeW5qDkk__h3eg-Yd5x-Byfp6hQ/viewform?usp=sf_link" class="site-btn" style="font-weight: bold"> SMA Kimia</a>
+							<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSftgouGp8T8Sou5JWczTbe_iR33MDj74CHxmIHMFp-tZDVNfg/viewform?usp=sf_link" class="site-btn" style="font-weight: bold"> SMA Kimia</a>
 						</div>
 						<div class="col-md-4 col-sm-12 mb-2">
-							<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeJC3IMnimG8lrjpXwnxGvXsqAiwblpyB-82Q7hE1198RAO1A/viewform?usp=sf_link" class="site-btn sb-c2" style="font-weight: bold"> SMA Ekonomi</a>
+							<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdKgaNUiN_hJNG3Ju_3hK5ozc-WovjMFgEx5ZW43kbFHOfpJQ/viewform?usp=sf_link" class="site-btn sb-c2" style="font-weight: bold"> SMA Ekonomi</a>
 						</div>
 						<div class="col-md-4 col-sm-12 mb-2">
-							<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfSzS1RwTU8Gwp1xTXwYoDbTP1yEcDjB8j5kGirLoVEEO2QRA/viewform?usp=sf_link" class="site-btn sb-c2" style="font-weight: bold"> SMA Sosiologi</a>
+							<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSe9-rkt8N5mS0-CSP37jGvZQUa0hBkdlenrAxkwL3K59xT1Qg/viewform?usp=sf_link" class="site-btn sb-c2" style="font-weight: bold"> SMA Sosiologi</a>
 						</div>
 						<div class="col-md-4 col-sm-12 mb-2">
-							<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScNiwzDapSvA5KggT6bLqtPbvmI-gSHpyUlEL5LKdGl4YFlnA/viewform?usp=sf_link" class="site-btn sb-c2" style="font-weight: bold"> SMA Geography</a>
+							<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSe0R1HyZvblo-5zTEE1_pbg-ROBBwyn4IUGISANeyEczIJEbQ/viewform?usp=sf_link" class="site-btn sb-c2" style="font-weight: bold"> SMA Geography</a>
 						</div>
 						<div class="col-md-12 col-sm-12 mr-1 mb-2">
-							<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScyFY0fMH1OrXoRZO_1W9aKidcvgxp4sDk6yU0wmcVpaoa-sQ/viewform?usp=sf_link" class="site-btn2" style="font-weight: bold"> SMK Kejuruan</a>
+							<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdNZoOVdgJqLOtR2739scZaR1tS1BAZ6HkT7PYb779f_t0tPw/viewform?usp=sf_link" class="site-btn2" style="font-weight: bold"> SMK Kejuruan</a>
 						</div>
 					</div>
 				</div>
